@@ -1,5 +1,5 @@
-# This is a Heading 1
-## This is a Heading 2
+# Smart Watch E-commerce website
+## 
 ### This is a Heading 3
 #### This is a Heading 4
 # *Italic text*
