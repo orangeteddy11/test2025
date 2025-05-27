@@ -7,6 +7,8 @@
 <p align="center">
   Maximize Your Profits, Minimize Our Concerns </p>
 
-- [Group Meeting Report](https://github.com/orangeteddy11/test2025/blob/master/Week%205%20Group%20Meeting%20Report.docx)
-- [Gantt Chart](https://github.com/orangeteddy11/test2025/blob/master/the%20dark%20one%20chart.xlsx%20-%20Dark.pdf)
-- [User Acceptance](https://github.com/orangeteddy11/test2025/blob/master/_User%20Acceptance%20Tests.xlsx%20-%20Sheet1.pdf)
+<p align="center">
+  <a href="https://github.com/orangeteddy11/test2025/blob/master/Week%205%20Group%20Meeting%20Report.docx"> • Group Meeting Report</a><br>
+  <a href="https://github.com/orangeteddy11/test2025/blob/master/the%20dark%20one%20chart.xlsx%20-%20Dark.pdf"> • Gantt Chart</a><br>
+  <a href="https://github.com/orangeteddy11/test2025/blob/master/_User%20Acceptance%20Tests.xlsx%20-%20Sheet1.pdf"> • User Acceptance</a>
+</p>
