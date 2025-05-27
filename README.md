@@ -3,9 +3,11 @@
     <img src = "https://mystickermania.com/cdn/stickers/spongebob/sb-happy-mr-krabs-512x512.png" alt="Mr_Krabbs" width="200" height="165">
   </a>
 </p>
-<h3 align = "center">Gremedia</h3>
-<p align = "center">
+<h2 align = "center">Gremedia</h2>
+<h3 align = "center">
   Maximize Your Profits, Minimize Our Concerns </p>
+<h4 align = "center"> Our honorary members
+  <p> Israel Whakamoe, Brent Bragancia, Roman Seaton, Rajib Chowdhury </p>
 
 <!-- For all commments please follow the rules listed in the syntax below to avoid breaking it -->
 
