@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="[https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png](https://mystickermania.com/cdn/stickers/spongebob/sb-happy-mr-krabs-512x512.png)" alt="Mr_Krabbs" width="200" height="165">
+    <img src="https://mystickermania.com/cdn/stickers/spongebob/sb-happy-mr-krabs-512x512.png" alt="Mr_Krabbs" width="200" height="165">
   </a>
 </p>
 
