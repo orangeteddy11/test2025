@@ -17,3 +17,5 @@
   <a href = "https://github.com/orangeteddy11/test2025/blob/master/Stakeholder%20Register.docx.pdf">• Stake Holder</a><br>
   <a href = "https://github.com/orangeteddy11/test2025/blob/master/resource_needs.docx.pdf">• Resource Needs<a/><br>
 </p>
+<p align = "center">
+<img src = "https://wallpapersok.com/images/high/mr-krabs-happy-money-eisnik6gv5pf4bzz.jpg" alt="guy" width="500" height="250">
