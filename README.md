@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-  Sleek, intuitive, and powerful front-end framework for faster and easier web development. </p>
+  Green Media Man - Roman Seaton </p>
 
 
 [Gantt Chart](https://github.com/orangeteddy11/test2025/blob/master/the%20dark%20one%20chart.xlsx%20-%20Dark.pdf)
