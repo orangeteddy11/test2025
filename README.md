@@ -7,7 +7,6 @@
 <p align="center">
   Maximize Your Profits, Minimize Our Concerns </p>
 
-
 <!-- For all commments please follow the rules listed in the syntax below to avoid breaking it -->
 
 <p align="center">
