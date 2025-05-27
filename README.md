@@ -3,6 +3,7 @@
     <img src="https://mystickermania.com/cdn/stickers/spongebob/sb-happy-mr-krabs-512x512.png" alt="Mr_Krabbs" width="200" height="165">
   </a>
 </p>
+<h3 align="center">Gremedia</h3>
 <p align="center">
   Green Media Man - Roman Seaton </p>
 
