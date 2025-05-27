@@ -10,7 +10,7 @@
 <!-- For all commments please follow the rules listed in the syntax below to avoid breaking it -->
 
 <p align = "center">
-  <a href = "https://github.com/orangeteddy11/test2025/blob/master/Week%205%20Group%20Meeting%20Report.docx">• Group Meeting Report</a><br>
+  <a href = "https://github.com/orangeteddy11/test2025/blob/master/Week%205%20Group%20Meeting%20Report%20(1).docx.pdf">• Group Meeting Report</a><br>
   <a href = "https://github.com/orangeteddy11/test2025/blob/master/the%20dark%20one%20chart.xlsx%20-%20Dark.pdf">• Gantt Chart</a><br>
   <a href = "https://github.com/orangeteddy11/test2025/blob/master/_User%20Acceptance%20Tests.xlsx%20-%20Sheet1.pdf">• User Acceptance</a><br>
   <a href = "https://github.com/orangeteddy11/test2025/blob/master/Personas.pdf">• Persona</a><br>
