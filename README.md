@@ -7,5 +7,5 @@
 <p align="center">
   Green Media Man - Roman Seaton </p>
 
--[Group Meeting Report](https://github.com/orangeteddy11/test2025/blob/master/Week%205%20Group%20Meeting%20Report.docx)
--[Gantt Chart](https://github.com/orangeteddy11/test2025/blob/master/the%20dark%20one%20chart.xlsx%20-%20Dark.pdf)
+- [Group Meeting Report](https://github.com/orangeteddy11/test2025/blob/master/Week%205%20Group%20Meeting%20Report.docx)
+- [Gantt Chart](https://github.com/orangeteddy11/test2025/blob/master/the%20dark%20one%20chart.xlsx%20-%20Dark.pdf)
