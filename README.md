@@ -15,4 +15,5 @@
   <a href = "https://github.com/orangeteddy11/test2025/blob/master/_User%20Acceptance%20Tests.xlsx%20-%20Sheet1.pdf">• User Acceptance</a><br>
   <a href = "https://github.com/orangeteddy11/test2025/blob/master/Personas.pdf">• Persona</a><br>
   <a href = "https://github.com/orangeteddy11/test2025/blob/master/Stakeholder%20Register.docx.pdf">• Stake Holder</a><br>
+  <a href = "https://github.com/orangeteddy11/test2025/blob/master/resource_needs.docx.pdf">• Resource Needs<a/><br>
 </p>
